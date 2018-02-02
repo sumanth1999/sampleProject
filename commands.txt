@@ -1,0 +1,5 @@
+
+git status    				------------- 	shows the status of the current branch 
+git add <file name>    		------------- 	stage the changes you want to commit  
+git commit -m "hello"		-------------	commits the changes to local git
+git push					-------------	push to origin/github
